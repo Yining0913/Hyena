@@ -1,15 +1,11 @@
 # Hyena
 
-├── README.md
+Run main.py for simulation.
 
-├── agent.py # agent class
-
-├── env.py  # environment class
-
-├── icons
-
-├── plot.py #code for plots
-
-├── test.py #code for statistical test
-
-└── utils.py # code for pygame screen
+├── README.md <br>
+├── agent.py # agent class<br>
+├── env.py  # environment class<br>
+├── icons<br>
+├── plot.py #code for plots<br>
+├── test.py #code for statistical test<br>
+└── utils.py # code for pygame screen<br>
